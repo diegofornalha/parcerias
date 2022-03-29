@@ -5,7 +5,7 @@ date: '2021-07-01'
 author: content/data/team/hilary-ouse.json
 featuredImage:
   type: ImageBlock
-  url: /images/post-3.jpg
+  url: /images/MaisUmCode.png
   altText: Post Image
 bottomSections:
   - elementId: ''
