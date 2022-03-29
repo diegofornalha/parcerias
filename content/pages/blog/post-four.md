@@ -10,7 +10,7 @@ bottomSections:
   - elementId: ''
     variant: variant-c
     colors: colors-a
-    title: Read next
+    title: Outras Par
     recentCount: 3
     styles:
       self:
