@@ -3,7 +3,7 @@
     "firstName": "Diego",
     "lastName": "Alcantara",
     "role": "Co-founder & CTO",
-    "bio": "This feature is the thing you were missing in your workflow, thank god we have it for you to use.",
+    "bio": "This feature is the thing you were missing in your workflow, thank god we have it for you to use.\n",
     "image": {
         "type": "ImageBlock",
         "url": "/images/hilary-ouse.jpg",
