@@ -11,7 +11,7 @@ excerpt: "\U0001F955 Uma coleção NFT com pfp gerado por algoritmo exclusivo us
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
-  altText: Post thumbnail image
+  altText: superrabbit
   caption: ''
 bottomSections: []
 author: content/data/team/hilary-ouse.json
