@@ -7,11 +7,6 @@ socialImage: null
 metaTags: []
 title: Token Business
 date: '2022-03-29'
-featuredImage:
-  type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
-  altText: Post thumbnail image
-  caption: ''
 bottomSections: []
 author: content/data/team/hilary-ouse.json
 ---
