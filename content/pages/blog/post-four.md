@@ -2,7 +2,6 @@
 title: Web 3 Dev
 layout: PostLayout
 date: '2021-11-03'
-author: content/data/team/desmond-eagle.json
 featuredImage:
   type: ImageBlock
   url: /images/post-4.jpg
