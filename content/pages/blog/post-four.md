@@ -2,10 +2,6 @@
 title: Comunidade Web3 Dev
 layout: PostLayout
 date: '2021-11-03'
-featuredImage:
-  type: ImageBlock
-  url: /images/web3dev-5ea7edf8.png
-  altText: Post Image
 bottomSections:
   - elementId: ''
     variant: variant-c
@@ -34,6 +30,15 @@ bottomSections:
       actions:
         justifyContent: center
     type: RecentPostsSection
+featuredImage:
+  type: ImageBlock
+  url: /images/web3dev.png
+  altText: altText of the image
+  caption: Caption of the image
+  elementId: ''
+  styles:
+    self:
+      opacity: 100
 ---
 # Primeiro token Learn-to-earn do Brasil
 
