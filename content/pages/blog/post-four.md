@@ -4,7 +4,7 @@ layout: PostLayout
 date: '2021-11-03'
 featuredImage:
   type: ImageBlock
-  url: /images/post-4.jpg
+  url: /images/web3dev.png
   altText: Post Image
 bottomSections:
   - elementId: ''
