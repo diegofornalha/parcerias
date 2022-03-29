@@ -30,6 +30,15 @@ bottomSections:
       actions:
         justifyContent: center
     type: RecentPostsSection
+featuredImage:
+  type: ImageBlock
+  url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+  altText: altText of the image
+  caption: Caption of the image
+  elementId: ''
+  styles:
+    self:
+      opacity: 100
 ---
 # Primeiro token Learn-to-earn do Brasil
 
