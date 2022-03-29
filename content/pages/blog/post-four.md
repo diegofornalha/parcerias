@@ -10,7 +10,7 @@ bottomSections:
   - elementId: ''
     variant: variant-c
     colors: colors-a
-    title: Outras Par
+    title: Mais Parcerias
     recentCount: 3
     styles:
       self:
