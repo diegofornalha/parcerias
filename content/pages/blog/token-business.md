@@ -11,7 +11,7 @@ bottomSections: []
 author: content/data/team/hilary-ouse.json
 featuredImage:
   type: ImageBlock
-  url: /images/tokenbusiness-57b594af.png
+  url: /images/tokenbusiness.png
   altText: Token Business
   caption: Caption of the image
   elementId: ''
