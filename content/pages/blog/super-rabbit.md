@@ -7,9 +7,7 @@ socialImage: null
 metaTags: []
 title: Super Rabbit
 date: '2022-03-29'
-excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+excerpt: "\U0001F955 Uma coleção NFT com pfp gerado por algoritmo exclusivo usando mais de 140 traços desenhados à mão. Esses coelhinhos fofos (às vezes) irão acompanhá-lo por todo o metaverso."
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
