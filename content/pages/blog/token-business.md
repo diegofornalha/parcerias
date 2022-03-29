@@ -9,6 +9,15 @@ title: Token Business
 date: '2022-03-29'
 bottomSections: []
 author: content/data/team/hilary-ouse.json
+featuredImage:
+  type: ImageBlock
+  url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+  altText: altText of the image
+  caption: Caption of the image
+  elementId: ''
+  styles:
+    self:
+      opacity: 100
 ---
 Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
 
