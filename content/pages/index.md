@@ -13,7 +13,7 @@ sections:
         showIcon: true
         icon: arrowRight
     posts:
-      - content/pages/blog/post-four.md
+      - /images/web3dev.png
       - content/pages/blog/post-three.md
     styles:
       self:
