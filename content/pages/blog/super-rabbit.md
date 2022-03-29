@@ -10,7 +10,7 @@ date: '2022-03-29'
 excerpt: "\U0001F955 Uma coleção NFT com pfp gerado por algoritmo exclusivo usando mais de 140 traços desenhados à mão. Esses coelhinhos fofos (às vezes) irão acompanhá-lo por todo o metaverso."
 featuredImage:
   type: ImageBlock
-  url: /images/capa-superrabbits.jpg
+  url: /images/Super-Rabbit.png
   altText: superrabbit
   caption: ''
 bottomSections: []
