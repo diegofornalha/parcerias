@@ -18,6 +18,8 @@ author: content/data/team/hilary-ouse.json
 ---
 ![](https://pbs.twimg.com/profile_banners/1499422784958652427/1646400016/600x200)
 
+[Entre para o clube do Super Coelho!](https://discord.com/invite/4pnZBXsxT2)
 
 🥕 Uma coleção NFT com pfp gerado por algoritmo exclusivo usando mais de 140 traços desenhados à mão. Esses coelhinhos fofos (às vezes) irão acompanhá-lo por todo o metaverso.
 
+Links Oficiais: https://linktr.ee/superrabbit
