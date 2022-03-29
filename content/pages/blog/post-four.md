@@ -2,9 +2,6 @@
 title: Comunidade Web3 Dev
 layout: PostLayout
 date: '2021-11-03'
-featuredImage:
-  type: ImageBlock
-  url: /images/web3dev-5ea7edf8.png
 bottomSections:
   - elementId: ''
     variant: variant-c
