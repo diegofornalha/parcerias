@@ -253,7 +253,7 @@ function postsVariantC(props) {
                                     </div>
                                     <div className="mt-3">
                                         <div className="sb-component sb-component-block sb-component-link">
-                                            <span>Leia </span>
+                                            <span>Saiba Mais</span>
                                             <ArrowRightIcon className="fill-current h-5 w-5 ml-3" />
                                         </div>
                                     </div>
