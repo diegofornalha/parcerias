@@ -21,7 +21,7 @@ featuredImage:
 ---
 # ![](https://preview--parcerias-31ffd.stackbit.dev/\_static/app-assets/images/cover%20token%20busoness.png)&#xA;A captação de recursos do futuro!
 
- Você pode dar vida aos seus empreendimentos de uma forma bem mais simples! 
+Você pode dar vida aos seus empreendimentos de uma forma bem mais simples! 
 
 Tokenização é o nome dado a processo em que um ativo passa a ser representado de forma digital por um token criptográfico, e acontece dentro da blockchain. O processo permite que os tokens sejam negociados entre pessoas de qualquer lugar do mundo com facilidade e extrema segurança. Os retornos são sempre relativos ao tipo de ativo.
 
