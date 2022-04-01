@@ -21,4 +21,5 @@ styles:
     textAlign: center
 addTitleSuffix: true
 socialImage: /images/metaverse flow.jpg
+metaTitle: Blog de Parcerias
 ---
