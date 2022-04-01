@@ -23,7 +23,7 @@ bottomSections: []
 
 A melhor maneira de garantir espaços de lances para uma campanha de lançamento de projeto, onde o dinheiro investido é garantido pela sustentabilidade do projeto.
 
-##
+## Como o Titular se beneficiará?
 
 Em nosso projeto usaremos 1/4 do lucro para recompras mensais, 50% dos tokens comprados serão destinados para queima imediata, tornando nosso token mais valioso a cada processo de recompra.
 
