@@ -40,6 +40,7 @@ sections:
     posts:
       - content/pages/blog/post-three.md
       - content/pages/blog/post-four.md
+      - content/pages/blog/super-rabbit.md
   - type: FeaturedItemsSection
     colors: colors-f
     elementId: ''
