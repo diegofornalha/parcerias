@@ -8,9 +8,7 @@ sections:
     title: Parcerias Mais Recentes
     actions:
       - type: Link
-        label: |-
-
-          Ver todas as postagens
+        label: Ver todas as postagens
         url: /blog
         showIcon: true
         icon: arrowRight
