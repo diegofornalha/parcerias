@@ -2,19 +2,18 @@
 title: Home
 layout: PageLayout
 sections:
-  - elementId: ''
-    colors: colors-a
-    variant: variant-b
-    title: Parcerias Mais Recentes
+  - type: FeaturedPostsSection
+    elementId: ''
+    showDate: false
+    showAuthor: false
+    showExcerpt: false
+    variant: variant-c
     actions:
-      - type: Link
-        label: See all posts
+      - type: Button
+        label: Veja todas
+        altText: Veja todas
         url: /blog
-        showIcon: true
-        icon: arrowRight
-    posts:
-      - /images/web3dev.png
-      - content/pages/blog/post-three.md
+        style: primary
     styles:
       self:
         height: auto
@@ -25,21 +24,21 @@ sections:
           - ml-0
           - mr-0
         padding:
-          - pt-0
-          - pb-36
+          - pt-12
+          - pb-12
           - pl-4
           - pr-4
         justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
       title:
-        textAlign: left
+        textAlign: center
       subtitle:
-        textAlign: left
+        textAlign: center
       actions:
-        justifyContent: flex-start
-    type: FeaturedPostsSection
-    showDate: true
+        justifyContent: center
+    title: Parcerias em Destaque
+    colors: colors-h
+    posts:
+      - content/pages/blog/post-three.md
+      - content/pages/blog/post-four.md
+      - content/pages/blog/super-rabbit.md
 ---
