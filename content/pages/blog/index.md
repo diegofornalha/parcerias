@@ -1,7 +1,7 @@
 ---
 layout: PostFeedLayout
 title: Blog
-numOfPostsPerPage: 10
+numOfPostsPerPage: 12
 postFeed:
   showDate: true
   showAuthor: false
@@ -19,4 +19,8 @@ postFeed:
 styles:
   title:
     textAlign: center
+addTitleSuffix: true
+socialImage: /images/metaverse flow.jpg
+metaTitle: Blog de Parcerias
+metaDescription: Seja Um Parceiro Também
 ---
