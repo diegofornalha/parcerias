@@ -4,7 +4,7 @@ layout: PageLayout
 sections:
   - type: FeaturedPostsSection
     elementId: ''
-    showDate: true
+    showDate: false
     showAuthor: false
     showExcerpt: false
     variant: variant-c
