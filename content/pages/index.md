@@ -5,7 +5,7 @@ sections:
   - type: FeaturedPostsSection
     elementId: ''
     showDate: true
-    showAuthor: true
+    showAuthor: false
     showExcerpt: false
     variant: variant-c
     actions:
