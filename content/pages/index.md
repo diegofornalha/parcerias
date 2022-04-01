@@ -48,7 +48,6 @@ sections:
     colors: colors-h
     posts:
       - content/pages/blog/post-three.md
-      - content/pages/blog/post-one.md
   - type: FeaturedItemsSection
     colors: colors-f
     elementId: ''
