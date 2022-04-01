@@ -136,7 +136,7 @@
     "defaultMetaTags": [
         {
             "type": "MetaTag",
-            "property": "og:title",
+            "property": "og:site_name",
             "content": ""
         }
     ]
