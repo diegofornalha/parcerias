@@ -49,4 +49,4 @@ Esse último ponto vou detalhar antes de encerrar nosso artigo sobre o tema:
 
 Investimento em tokens é seguro do ponto de vista tecnológico - e isso é devido especialmente à blockchain, conhecida também como "protocolo de confiança". A blockchain garante uma proteção a mais para todas as informações contidas ali dentro. Hoje, setores do varejo e manufatura, transportes, bancos, operadoras de saúde, seguradoras e até já utilizam a blockchain para compartilhar dados de forma segura.
 
-Site: [tokenbusiness.com.br](tokenbusiness.com.br)
+**Site:** [tokenbusiness.com.br](tokenbusiness.com.br)
