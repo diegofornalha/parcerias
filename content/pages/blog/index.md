@@ -20,4 +20,5 @@ styles:
   title:
     textAlign: center
 addTitleSuffix: true
+socialImage: /images/metaverse flow.jpg
 ---
