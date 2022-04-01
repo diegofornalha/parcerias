@@ -1,6 +1,6 @@
 {
     "type": "Config",
-    "favicon": "/images/favicon.svg",
+    "favicon": "/images/favicon.png",
     "header": {
         "headerVariant": "variant-c",
         "primaryColors": "colors-a",
@@ -130,5 +130,14 @@
                 ]
             }
         }
-    }
+    },
+    "titleSuffix": "Parcerias Para o Metaverso",
+    "defaultSocialImage": "/images/metaverse flow.jpg",
+    "defaultMetaTags": [
+        {
+            "type": "MetaTag",
+            "property": "og:site_name",
+            "content": "Coflow BlockChain"
+        }
+    ]
 }
