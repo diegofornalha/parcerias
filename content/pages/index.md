@@ -36,7 +36,6 @@ sections:
       actions:
         justifyContent: center
     title: Parcerias em Destaque
-    subtitle: Featured blog posts section example
     colors: colors-h
     posts:
       - content/pages/blog/post-three.md
