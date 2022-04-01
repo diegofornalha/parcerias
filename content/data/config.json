@@ -132,5 +132,12 @@
         }
     },
     "titleSuffix": "Parcerias Para o Metaverso",
-    "defaultSocialImage": "/images/metaverse flow.jpg"
+    "defaultSocialImage": "/images/metaverse flow.jpg",
+    "defaultMetaTags": [
+        {
+            "type": "MetaTag",
+            "property": "og:title",
+            "content": ""
+        }
+    ]
 }
