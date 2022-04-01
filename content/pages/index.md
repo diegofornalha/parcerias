@@ -11,7 +11,7 @@ sections:
     actions:
       - type: Button
         label: Veja todas
-        altText: View All Posts
+        altText: Veja todas
         url: /blog
         style: primary
     styles:
