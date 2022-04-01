@@ -10,7 +10,6 @@ date: '2022-02-01'
 featuredImage:
   type: ImageBlock
   url: /images/Mercurius capa.png
-  altText: Post thumbnail image
   caption: ''
 bottomSections: []
 ---
