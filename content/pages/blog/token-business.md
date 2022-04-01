@@ -19,7 +19,7 @@ featuredImage:
     self:
       opacity: 100
 ---
-# ![](https://preview--parcerias-31ffd.stackbit.dev/\_static/app-assets/images/cover%20token%20busoness.png)&#xA;A captação de recursos do futuro!
+# ![](https://preview--parcerias-31ffd.stackbit.dev/\_static/app-assets/images/cover%20token%20busoness.png)
 
 Você pode dar vida aos seus empreendimentos de uma forma bem mais simples! 
 
