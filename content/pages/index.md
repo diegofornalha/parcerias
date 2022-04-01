@@ -14,14 +14,6 @@ sections:
         altText: View All Posts
         url: /blog
         style: primary
-      - type: Link
-        label: Learn more
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        elementId: ''
     styles:
       self:
         height: auto
