@@ -11,7 +11,7 @@ bottomSections:
   - elementId: ''
     variant: variant-c
     colors: colors-a
-    title: Read next
+    title: Outras Parcerias
     recentCount: 3
     styles:
       self:
