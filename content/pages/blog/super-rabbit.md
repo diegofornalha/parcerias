@@ -16,10 +16,8 @@ featuredImage:
 bottomSections: []
 author: content/data/team/hilary-ouse.json
 ---
-
-
 [![](/images/cover%20super%20rabbit.png)Entre para o clube do Super Coelho!](https://discord.com/invite/4pnZBXsxT2)
 
 🥕 Uma coleção NFT com pfp gerado por algoritmo exclusivo usando mais de 140 traços desenhados à mão. Esses coelhinhos fofos (às vezes) irão acompanhá-lo por todo o metaverso.
 
-Links Oficiais: https://linktr.ee/superrabbit
+**site:** [linktr.ee/superrabbit](linktr.ee/superrabbit)
