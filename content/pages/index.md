@@ -35,7 +35,7 @@ sections:
         textAlign: center
       actions:
         justifyContent: center
-    title: Featured
+    title: Parcerias em Destaque
     subtitle: Featured blog posts section example
     colors: colors-h
     posts:
