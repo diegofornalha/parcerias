@@ -9,7 +9,7 @@ title: Mercurius Crypto
 date: '2022-02-01'
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/Mercurius capa.png
   altText: Post thumbnail image
   caption: ''
 bottomSections: []
