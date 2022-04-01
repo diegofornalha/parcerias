@@ -22,4 +22,5 @@ styles:
 addTitleSuffix: true
 socialImage: /images/metaverse flow.jpg
 metaTitle: Blog de Parcerias
+metaDescription: Seja Um Parceiro Também
 ---
