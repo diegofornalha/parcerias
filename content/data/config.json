@@ -29,7 +29,8 @@
                 "type": "Link",
                 "label": "BLOG DE PARCERIAS",
                 "altText": "PARCERIAS",
-                "url": "/blog"
+                "url": "/blog",
+                "showIcon": true
             }
         ],
         "secondaryLinks": [
