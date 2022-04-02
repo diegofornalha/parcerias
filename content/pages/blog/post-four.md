@@ -39,6 +39,7 @@ featuredImage:
   styles:
     self:
       opacity: 100
+excerpt: Comunidade Web3 Dev
 ---
 # Primeiro token Learn-to-earn do Brasil
 
