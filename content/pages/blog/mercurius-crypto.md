@@ -11,6 +11,7 @@ featuredImage:
   type: ImageBlock
   url: /images/Mercurius.png
   caption: ''
+  altText: Mercurius Crypto
 bottomSections: []
 excerpt: Mercurius Crypto
 author: content/data/team/hilary-ouse.json
