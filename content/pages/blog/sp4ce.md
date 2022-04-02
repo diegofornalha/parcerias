@@ -11,7 +11,7 @@ excerpt: Sp4ce
 featuredImage:
   type: ImageBlock
   url: /images/space blockchain.png
-  altText: Post thumbnail image
+  altText: Sp4ce
   caption: ''
 bottomSections: []
 ---
