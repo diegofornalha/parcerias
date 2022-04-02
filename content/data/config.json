@@ -30,7 +30,8 @@
                 "label": "BLOG DE PARCERIAS",
                 "altText": "PARCERIAS",
                 "url": "/blog",
-                "showIcon": true
+                "showIcon": true,
+                "iconPosition": "left"
             }
         ],
         "secondaryLinks": [
