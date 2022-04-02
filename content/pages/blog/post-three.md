@@ -35,6 +35,7 @@ bottomSections:
       actions:
         justifyContent: center
     type: RecentPostsSection
+excerpt: +1code
 ---
 # +1Code quer Reprogramar a Quebrada 
 
