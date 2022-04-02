@@ -14,6 +14,7 @@ featuredImage:
   altText: Sp4ce
   caption: Sp4ce
 bottomSections: []
+author: content/data/team/hilary-ouse.json
 ---
 ![](/images/capa%20sp4ce.png)
 
