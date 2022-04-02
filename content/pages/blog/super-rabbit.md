@@ -12,7 +12,7 @@ featuredImage:
   type: ImageBlock
   url: /images/Super-Rabbit.png
   altText: Super Rabbit
-  caption: ''
+  caption: Super Rabbit
 bottomSections: []
 author: content/data/team/hilary-ouse.json
 ---
