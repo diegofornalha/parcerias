@@ -5,7 +5,7 @@ metaDescription: null
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: coorest
+title: Coorest
 date: '2022-04-01'
 excerpt: coorest
 featuredImage:
