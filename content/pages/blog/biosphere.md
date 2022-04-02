@@ -11,7 +11,7 @@ excerpt: BioSphere
 featuredImage:
   type: ImageBlock
   url: /images/biosphere.png
-  altText: Post thumbnail image
+  altText: BioSphere
   caption: ''
 bottomSections: []
 ---
