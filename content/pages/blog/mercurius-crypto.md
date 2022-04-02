@@ -12,6 +12,7 @@ featuredImage:
   url: /images/Mercurius.png
   caption: ''
 bottomSections: []
+excerpt: Mercurius Crypto
 ---
 ![](/images/Mercurius%20capa.png)
 
