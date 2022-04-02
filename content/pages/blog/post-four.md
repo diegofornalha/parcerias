@@ -33,7 +33,7 @@ bottomSections:
 featuredImage:
   type: ImageBlock
   url: /images/web3dev.png
-  altText: altText of the image
+  altText: Comunidade Web3 Dev
   caption: Caption of the image
   elementId: ''
   styles:
