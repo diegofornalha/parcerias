@@ -13,6 +13,7 @@ featuredImage:
   caption: ''
 bottomSections: []
 excerpt: Mercurius Crypto
+author: content/data/team/hilary-ouse.json
 ---
 ![](/images/Mercurius%20capa.png)
 
