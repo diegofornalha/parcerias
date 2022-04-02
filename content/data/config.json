@@ -103,7 +103,7 @@
                 "type": "Link",
                 "label": "BLOG DE PARCERIAS",
                 "altText": "",
-                "url": "/",
+                "url": "/blog",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
