@@ -12,7 +12,7 @@ featuredImage:
   type: ImageBlock
   url: /images/biosphere.png
   altText: BioSphere
-  caption: ''
+  caption: BioSphere
 bottomSections: []
 ---
 ![](/images/cover%20biosphere.png)
