@@ -7,9 +7,7 @@ socialImage: null
 metaTags: []
 title: BioSphere
 date: '2022-04-01'
-excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+excerpt: BioSphere
 featuredImage:
   type: ImageBlock
   url: /images/biosphere.png
