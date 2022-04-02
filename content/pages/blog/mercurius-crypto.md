@@ -6,7 +6,7 @@ addTitleSuffix: true
 socialImage: null
 metaTags: []
 title: Mercurius Crypto
-date: '2022-02-01'
+date: '2022-03-01'
 featuredImage:
   type: ImageBlock
   url: /images/Mercurius.png
