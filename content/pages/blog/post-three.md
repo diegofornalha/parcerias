@@ -6,7 +6,7 @@ author: content/data/team/hilary-ouse.json
 featuredImage:
   type: ImageBlock
   url: /images/MaisUmCode.png
-  altText: Post Image
+  altText: +1code
 bottomSections:
   - elementId: ''
     variant: variant-c
