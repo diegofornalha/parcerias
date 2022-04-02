@@ -18,6 +18,7 @@ featuredImage:
   styles:
     self:
       opacity: 100
+excerpt: Token Business
 ---
 # ![](https://preview--parcerias-31ffd.stackbit.dev/\_static/app-assets/images/cover%20token%20busoness.png)
 
