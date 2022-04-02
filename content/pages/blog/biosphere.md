@@ -6,7 +6,7 @@ addTitleSuffix: true
 socialImage: null
 metaTags: []
 title: BioSphere
-date: '2022-04-01'
+date: '2022-03-27'
 excerpt: BioSphere
 featuredImage:
   type: ImageBlock
