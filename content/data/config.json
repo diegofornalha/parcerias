@@ -31,8 +31,7 @@
                 "altText": "PARCERIAS",
                 "url": "/blog",
                 "showIcon": true,
-                "iconPosition": "right",
-                "icon": "chevronLeft"
+                "iconPosition": "right"
             }
         ],
         "secondaryLinks": [
