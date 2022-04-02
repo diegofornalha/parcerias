@@ -6,7 +6,7 @@
         "primaryColors": "colors-a",
         "secondaryColors": "colors-f",
         "title": "Parcerias Coflow",
-        "isTitleVisible": true,
+        "isTitleVisible": false,
         "primaryLinks": [
             {
                 "type": "Link",
