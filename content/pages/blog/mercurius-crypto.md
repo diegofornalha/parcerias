@@ -10,7 +10,7 @@ date: '2022-02-01'
 featuredImage:
   type: ImageBlock
   url: /images/Mercurius.png
-  caption: ''
+  caption: Mercurius Crypto
   altText: Mercurius Crypto
 bottomSections: []
 excerpt: Mercurius Crypto
