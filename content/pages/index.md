@@ -11,7 +11,7 @@ sections:
     actions:
       - type: Button
         label: SAIBA MAIS
-        altText: View All Posts
+        altText: SAIBA MAIS
         url: 'https://coflow.com.br/parceiros/'
         style: primary
     styles:
