@@ -34,7 +34,7 @@ featuredImage:
   type: ImageBlock
   url: /images/web3dev.png
   altText: Comunidade Web3 Dev
-  caption: Caption of the image
+  caption: Comunidade Web3 Dev
   elementId: ''
   styles:
     self:
