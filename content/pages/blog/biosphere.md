@@ -14,6 +14,7 @@ featuredImage:
   altText: BioSphere
   caption: BioSphere
 bottomSections: []
+author: content/data/team/hilary-ouse.json
 ---
 ![](/images/cover%20biosphere.png)
 
