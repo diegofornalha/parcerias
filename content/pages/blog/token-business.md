@@ -12,7 +12,7 @@ author: content/data/team/hilary-ouse.json
 featuredImage:
   type: ImageBlock
   url: /images/tokenbusiness tokenização.png
-  altText: altText of the image
+  altText: Token Business
   caption: Caption of the image
   elementId: ''
   styles:
