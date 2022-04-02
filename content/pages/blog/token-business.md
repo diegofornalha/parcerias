@@ -13,7 +13,7 @@ featuredImage:
   type: ImageBlock
   url: /images/tokenbusiness tokenização.png
   altText: Token Business
-  caption: Caption of the image
+  caption: Token Business
   elementId: ''
   styles:
     self:
