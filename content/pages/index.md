@@ -36,7 +36,7 @@ sections:
       actions:
         justifyContent: center
     title: Quer ser um Parceiro?
-    subtitle: Featured blog posts section example
+    subtitle: Clique no botão abaixo para saber mais
     colors: colors-f
     posts:
       - content/pages/blog/post-two.md
