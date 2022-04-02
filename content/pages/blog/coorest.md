@@ -14,5 +14,6 @@ featuredImage:
   altText: coorest
   caption: coorest
 bottomSections: []
+author: content/data/team/hilary-ouse.json
 ---
 ![](/images/coorest%20capa.png)
