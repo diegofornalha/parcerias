@@ -10,7 +10,7 @@ sections:
     variant: variant-a
     actions:
       - type: Button
-        label: View All
+        label: SAIBA MAIS
         altText: View All Posts
         url: /blog
         style: primary
