@@ -7,6 +7,7 @@ featuredImage:
   type: ImageBlock
   url: /images/MaisUmCode.png
   altText: +1code
+  caption: +1code
 bottomSections:
   - elementId: ''
     variant: variant-c
