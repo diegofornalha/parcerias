@@ -1,6 +1,6 @@
 ---
 layout: PostFeedLayout
-title: Blog
+title: Parceiros
 numOfPostsPerPage: 12
 postFeed:
   showDate: true
