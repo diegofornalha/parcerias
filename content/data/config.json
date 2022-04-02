@@ -13,8 +13,7 @@
                 "label": "HOME PRINCIPAL",
                 "url": "https://coflow.com.br/",
                 "altText": "",
-                "showIcon": false,
-                "icon": "github"
+                "showIcon": false
             },
             {
                 "type": "Link",
