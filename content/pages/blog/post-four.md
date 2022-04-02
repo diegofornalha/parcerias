@@ -40,6 +40,7 @@ featuredImage:
     self:
       opacity: 100
 excerpt: Comunidade Web3 Dev
+author: content/data/team/hilary-ouse.json
 ---
 # Primeiro token Learn-to-earn do Brasil
 
