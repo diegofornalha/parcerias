@@ -14,7 +14,7 @@
                 "url": "https://coflow.com.br/",
                 "altText": "",
                 "showIcon": false,
-                "icon": "cart"
+                "icon": "arrowRightCircle"
             },
             {
                 "type": "Link",
