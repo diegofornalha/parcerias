@@ -11,7 +11,7 @@ excerpt: "\U0001F955 Uma coleção NFT com pfp gerado por algoritmo exclusivo us
 featuredImage:
   type: ImageBlock
   url: /images/Super-Rabbit.png
-  altText: superrabbit
+  altText: Super Rabbit
   caption: ''
 bottomSections: []
 author: content/data/team/hilary-ouse.json
