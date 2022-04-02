@@ -12,7 +12,7 @@ featuredImage:
   type: ImageBlock
   url: /images/space blockchain.png
   altText: Sp4ce
-  caption: ''
+  caption: Sp4ce
 bottomSections: []
 ---
 ![](/images/capa%20sp4ce.png)
