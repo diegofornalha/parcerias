@@ -11,7 +11,7 @@ featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
   altText: Blockchain Rio
-  caption: ''
+  caption: Blockchain Rio
 bottomSections: []
 author: content/data/team/hilary-ouse.json
 excerpt: Blockchain Rio
