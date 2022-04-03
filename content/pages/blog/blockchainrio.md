@@ -14,5 +14,6 @@ featuredImage:
   caption: ''
 bottomSections: []
 author: content/data/team/hilary-ouse.json
+excerpt: Blockchain Rio
 ---
 ![](/images/capa%20blockchain%20rio.png)
