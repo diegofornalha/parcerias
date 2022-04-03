@@ -10,7 +10,7 @@ date: '2022-04-02'
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
-  altText: Post thumbnail image
+  altText: Blockchain Rio
   caption: ''
 bottomSections: []
 author: content/data/team/hilary-ouse.json
