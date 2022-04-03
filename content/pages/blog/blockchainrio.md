@@ -9,7 +9,7 @@ title: Blockchain Rio
 date: '2022-04-02'
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/blockchainrio.png
   altText: Blockchain Rio
   caption: Blockchain Rio
 bottomSections: []
