@@ -18,4 +18,4 @@ author: content/data/team/hilary-ouse.json
 ---
 ![](/images/coorest%20capa.png)
 
-**site: **[coorest.eu](coorest.eu)
+site: coorest.eu

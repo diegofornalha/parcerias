@@ -52,6 +52,6 @@ Quanto mais pessoas envolvidas, melhor, principalmente os leigos que ainda não 
 
 Todo mundo que participar vai ganhar o token $MELK de graça se aprender tudo direitinho!
 
-Mais informações sobre como tudo vai funcionar aqui: <https://melk.gitbook.io/aprenda-e-ganhe/>
+Mais informações sobre como tudo vai funcionar aqui: https://melk.gitbook.io/aprenda-e-ganhe/
 
-Site: [web3dev.com.br](https://www.web3dev.com.br/)
+Site: web3dev.com.br
