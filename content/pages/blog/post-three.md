@@ -38,7 +38,7 @@ bottomSections:
     type: RecentPostsSection
 excerpt: +1code
 ---
-# +1Code quer Reprogramar a Quebrada 
+# +1Code quer Reprogramar a Quebrada
 
 Aulas ocorrem semanalmente e o aluno terá um professor(a) exclusivo, que irá tirar todas as dúvidas diretamente com ele ou com nossa equipe. Após 6 meses estará preparado  para dar os primeiros passos rumo ao mercado de trabalho.
 
@@ -48,4 +48,4 @@ A Mais 1Code já tocou a trajetória de 490 jovens acima de 16 anos. A ideia é 
 
 A Mais1Code proporciona educação tecnológica de qualidade e acesso a trilhas formativas para o desenvolvimento social e econômico do periférico. A ideia é capitaneada pelos amigos Tauan Matos e Diogo Bezerra, formado em marketing e membro do programa Jovem Líder das Américas. 71% das famílias que moram em periferias brasileiras estão sobrevivendo com menos da metade de sua renda original, segundo pesquisa do Data Favela. Segundo eles a Inovação será a chave para o nosso futuro.
 
-site: https://mais1code.com.br/
+site: mais1code.com.br
