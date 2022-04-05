@@ -18,7 +18,7 @@ excerpt: Blockchain Rio
 ---
 ![](/images/capa%20blockchain%20rio.png)
 
-# Blockchain Rio Festival 
+# Blockchain Rio Festival
 
 O evento apresenta 4 dias de imersão transformadora trazendo tecnologia, negócios, cultura e sustentabilidade. Este é um dos maiores eventos presenciais sobre o tema já realizados no Mundo.
 
@@ -26,4 +26,4 @@ O evento apresenta 4 dias de imersão transformadora trazendo tecnologia, negóc
 
 No Pier Mauá, dias 01, 02, 03, 04 de setembro de 2022.
 
-**site: **[blockchainrio.com.br](blockchainrio.com.br)
+site:  blockchainrio.com.br
