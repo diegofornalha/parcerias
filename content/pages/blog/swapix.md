@@ -3,7 +3,7 @@ layout: PostLayout
 metaTitle: null
 metaDescription: null
 addTitleSuffix: true
-socialImage: null
+socialImage: /images/solucao pix-1038b242.png
 metaTags: []
 title: SWAPiX
 date: '2022-04-09'
