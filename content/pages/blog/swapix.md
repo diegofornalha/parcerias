@@ -18,7 +18,7 @@ featuredImage:
 bottomSections: []
 author: content/data/team/hilary-ouse.json
 ---
-![](/images/solucao%20pix%20capa-d709079f.png)
+![](/images/solucao%20pix%20capa.png)
 
 SWAPiX é uma solução da SmartPay que permite a conversão tanto de Cripto para Reais, como de Reais para Cripto de forma rápida, simples e eficiente.
 
