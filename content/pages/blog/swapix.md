@@ -1,6 +1,6 @@
 ---
 layout: PostLayout
-metaTitle: null
+metaTitle: 'SWAPiX '
 metaDescription: null
 addTitleSuffix: true
 socialImage: /images/solucao pix-1038b242.png
