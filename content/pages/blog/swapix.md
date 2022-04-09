@@ -12,7 +12,7 @@ excerpt: >-
   Reais, como de Reais para Cripto de forma rápida, simples e eficiente.
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/solucao pix-1038b242.png
   altText: 'SWAPiX '
   caption: 'SWAPiX '
 bottomSections: []
