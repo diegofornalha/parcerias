@@ -14,7 +14,7 @@ featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
   altText: 'SWAPiX '
-  caption: ''
+  caption: 'SWAPiX '
 bottomSections: []
 author: content/data/team/hilary-ouse.json
 ---
