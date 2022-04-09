@@ -16,6 +16,7 @@ featuredImage:
   altText: Post thumbnail image
   caption: ''
 bottomSections: []
+author: content/data/team/hilary-ouse.json
 ---
 ![](/images/solucao%20pix%20capa-d709079f.png)
 
