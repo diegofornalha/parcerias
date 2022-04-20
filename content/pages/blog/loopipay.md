@@ -13,7 +13,7 @@ featuredImage:
   type: ImageBlock
   url: /images/loopipay.png
   altText: looppay
-  caption: Caption of the image
+  caption: looppay
   elementId: ''
   styles:
     self:
