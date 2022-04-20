@@ -20,3 +20,8 @@ featuredImage:
       opacity: 100
 ---
 ![](/images/looppay%20capa.png)
+
+Comprar Criptomoedas e ter a custódia dos seus ativos diretamente na sua carteira digital não deveria ser difícil, nem custoso. 
+
+Agora temos mais uma solução de compra de moedas via pix, o jeito mais rápido e simples de comprar moedas digitais, tão fácil quanto fazer um PIX.
+
