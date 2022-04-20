@@ -47,6 +47,7 @@ bottomSections:
     colors: colors-h
     posts:
       - content/pages/blog/post-three.md
+      - content/pages/blog/swapix.md
 featuredImage:
   type: ImageBlock
   url: /images/loopipay.png
