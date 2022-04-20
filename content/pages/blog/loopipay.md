@@ -17,7 +17,7 @@ bottomSections:
     variant: variant-c
     actions:
       - type: Button
-        altText: View All Posts
+        altText: Outros Parceiros
         url: /blog
         style: primary
         label: Outros Parceiros
