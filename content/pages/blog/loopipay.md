@@ -19,4 +19,4 @@ featuredImage:
     self:
       opacity: 100
 ---
-loopipay
+![](/images/looppay%20capa.png)
