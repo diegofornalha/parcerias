@@ -5,7 +5,7 @@ metaDescription: null
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: loopipay
+title: Loopipay
 date: '2022-04-20'
 excerpt: loopipay
 bottomSections: []
