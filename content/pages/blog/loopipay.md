@@ -12,7 +12,7 @@ bottomSections: []
 featuredImage:
   type: ImageBlock
   url: /images/loopipay.png
-  altText: altText of the image
+  altText: looppay
   caption: Caption of the image
   elementId: ''
   styles:
