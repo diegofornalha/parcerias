@@ -7,7 +7,7 @@ socialImage: null
 metaTags: []
 title: LoopiPay
 date: '2022-04-20'
-excerpt: loopipay
+excerpt: LoopiPay
 bottomSections: []
 featuredImage:
   type: ImageBlock
