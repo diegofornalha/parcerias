@@ -46,7 +46,6 @@ bottomSections:
     subtitle: Featured blog posts section example
     colors: colors-h
     posts:
-      - content/pages/blog/post-three.md
       - content/pages/blog/swapix.md
 featuredImage:
   type: ImageBlock
