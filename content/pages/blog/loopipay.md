@@ -7,7 +7,9 @@ socialImage: null
 metaTags: []
 title: LoopiPay
 date: '2022-04-20'
-excerpt: LoopiPay
+excerpt: >-
+  Comprar Criptomoedas e ter a custódia dos seus ativos diretamente na sua
+  carteira digital não deveria ser difícil, nem custoso.
 bottomSections:
   - type: FeaturedPostsSection
     elementId: ''
