@@ -17,7 +17,7 @@ bottomSections:
     variant: variant-c
     actions:
       - type: Button
-        label: Veja Todas as Parcerias
+        label: Veja Todas Parcerias
         altText: View All Posts
         url: /blog
         style: primary
