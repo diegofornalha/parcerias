@@ -43,7 +43,7 @@ bottomSections:
       actions:
         justifyContent: center
     title: Relacionado
-    subtitle: Featured blog posts section example
+    subtitle: Compare com outras opções
     colors: colors-h
     posts:
       - content/pages/blog/swapix.md
