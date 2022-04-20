@@ -42,7 +42,7 @@ bottomSections:
         textAlign: center
       actions:
         justifyContent: center
-    title: Featured
+    title: Relacionado
     subtitle: Featured blog posts section example
     colors: colors-h
     posts:
