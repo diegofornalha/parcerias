@@ -20,6 +20,7 @@ bottomSections:
         altText: View All Posts
         url: /blog
         style: primary
+        label: Outros Parceiros
     styles:
       self:
         height: auto
